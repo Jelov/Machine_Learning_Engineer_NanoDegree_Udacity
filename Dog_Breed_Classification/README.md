@@ -11,8 +11,6 @@ Given an image of a dog, your algorithm will identify an estimate of the canineâ
 The classification is done by using either model built from scrtach or transfer learning from 3 different pre-trained models(VGG, DenseNet, ResNext). The result of performance is comparable to the bench mark, accuracy in classification of ImageNet-1k. The top-1 error is about 70-86% while top5-err is from 94-99%.
 
 
-![Sample Output][image1]
-
 
 ## Associated Files
 Dog Breed Classifier via Convolutional Neural Network.pdf : Project result report
